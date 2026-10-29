@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+python/data/
+python/artifacts/X_*.npy
+python/artifacts/y_*.npy
+*.tar.gz
+*.part
+.vscode/

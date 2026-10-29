@@ -1,0 +1,7 @@
+numpy
+scipy
+tqdm
+matplotlib
+pyserial
+sounddevice
+tensorflow>=2.15
